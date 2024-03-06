@@ -1,3 +1,6 @@
+"""
+Contains classes DataSource , Results , TestEncapsulator , Test IMplementer , create a python project with workflow control over nested questions and results of one question can be input for another question , also input is a dataframe , each question is a question Object and logic of execution of a question lies inside the question object and question , Question are configured in a object db , which comes and input for test implemeter 
+"""
 import pandas as pd
 
 class DataSource:
